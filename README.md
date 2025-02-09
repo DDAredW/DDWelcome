@@ -1,5 +1,5 @@
 [RU]
-# WelcomeMessage
+# DDWelcome
 Плагин протестирован и работает для Minecraft Paper 1.16.5.
 Название плагина - WelcomeMessage
 Описание плагина - Отправляет приветственное сообщение игроку когда тот заходит на 
@@ -7,7 +7,7 @@
 Сообщения редактируются в config.yml.  
 
 [EN]
-# WelcomeMessage
+# DDWelcome
 The plugin has been tested and works for Minecraft Paper 1.16.5.
 Plugin name - WelcomeMessage
 Plugin description - Sends a welcome message to the player when he enters the 
