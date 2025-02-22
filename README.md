@@ -1,15 +1,39 @@
 [RU]
-# DDWelcome
-Плагин протестирован и работает для Minecraft Paper 1.16.5.
-Название плагина - WelcomeMessage
-Описание плагина - Отправляет приветственное сообщение игроку когда тот заходит на 
-Сервер, а так же отправляет сообщение при выходе игрока с сервера.
-Сообщения редактируются в config.yml.  
+# DDWelcome - это плагин для Minecraft серверов (версия API 1.16+), который добавляет:
+
+- Настраиваемые приветственные сообщения при входе игроков
+- Настраиваемые сообщения при выходе игроков  
+- Поддержку HEX-цветов в сообщениях (формат &#RRGGBB)
+- Систему частиц при входе/выходе игроков
+
+**Основные характеристики:**
+- Версия: 1.4
+- Автор: Lunatik
+- Минимальная версия API: 1.16
+- Поддерживает Paper/Spigot сервера
+
+**Технические требования:**
+- Java 8 или выше
+- Paper/Spigot сервер 1.16.5+
+
+Плагин предоставляет гибкую систему настройки через конфигурационный файл для персонализации сообщений и эффектов частиц.
 
 [EN]
-# DDWelcome
-The plugin has been tested and works for Minecraft Paper 1.16.5.
-Plugin name - WelcomeMessage
-Plugin description - Sends a welcome message to the player when he enters the 
-The server also sends a message when a player leaves the server.
-Messages are edited in config.yml.
+# DDWelcome is a Minecraft server plugin (API version 1.16+) that adds:
+
+- Custom welcome messages when players enter
+- Custom messages when players leave
+- Support for HEX colors in messages (&#RRGGBB format)
+- Particle system when players enter/leave
+
+**Main features:**
+- Version: 1.4
+- Author: Lunatik
+- Minimum API version: 1.16
+- Supports Paper/Spigot servers
+
+**Technical requirements:**
+- Java 8 or higher
+- Paper/Spigot server 1.16.5+
+
+The plugin provides a flexible customization system via a config file to personalize messages and particle effects.
