@@ -1,4 +1,5 @@
-name: WelcomeMessage
-version: '1.1'
-main: lunadev.main.welcomemessage
+name: DDWelcome
+version: '1.4'
+author: 'Lunatik'
+main: lunadev.main.DDWelcome
 api-version: '1.16'
